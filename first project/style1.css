@@ -1,0 +1,43 @@
+.eraser{
+    border:1px solid grey;
+    width:400px;
+    margin-left:10px;
+    padding:15px;
+    border-top-right-radius:20px;
+    border-top-left-radius:20px;
+    
+    
+
+}
+.Gimage{
+    margin:20px;
+    border-radius:300px;
+    margin-right:40px;
+
+}
+.Vimage{
+    margin:20px;
+    border-radius:300px;
+    
+}
+.box{
+    margin-left:10px;
+    margin-right:200px;
+    border-color:grey;
+    width:400px;
+    border: 1px solid;
+    padding:15px;
+    border-bottom-right-radius:20px;
+    border-bottom-left-radius:20px;
+    
+
+    
+}
+.home{
+    width:400px;
+    margin:150px auto;
+    
+}
+.dull{
+    color:blue;
+}

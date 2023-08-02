@@ -1,0 +1,20 @@
+.dark{
+    border:1px solid white;
+    width:400px;
+    padding:80px;
+    margin:150px auto;
+    line-height:30px;
+    background-color:#90EE90;
+    border-radius:20px;
+    
+    
+    
+    
+}
+.btn{
+    padding:10px;
+    border:1px solid white;
+    border-radius:20px;
+    font-size:15px;
+    margin-bottom:60px;
+}
